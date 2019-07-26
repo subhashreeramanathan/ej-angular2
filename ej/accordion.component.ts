@@ -4,7 +4,6 @@ import { EJComponents } from './core';
 import { EventEmitter, IterableDiffers, KeyValueDiffers, Type, Component, ElementRef, ChangeDetectorRef, Input, Output, NgModule, ModuleWithProviders } from '@angular/core';
 
 
-
 @Component({
     selector: 'ej-accordion',
     template: '<ng-content></ng-content>'})

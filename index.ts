@@ -1,7 +1,6 @@
 import { NgModule, ModuleWithProviders } from "@angular/core";
 import { CommonModule } from "@angular/common";
 
-
 import { EJ_GRID_COMPONENTS } from './ej/grid.component';
 import { GridGroupcaptionTemplateDirective } from './ej/gridtemplates/grid.groupcaption.template';
 import { GridEditTemplateDirective } from './ej/gridtemplates/grid.edit.template';
